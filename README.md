@@ -1,16 +1,4 @@
-# lub1
+//# Лабораторная работа 1 
+## Главный экран
+![image](https://github.com/cyph3r322/lub2/assets/144318326/2f178af7-1e2b-4469-9b10-8aed2f19df8d)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
